@@ -23,8 +23,7 @@ This repository acts as a **profile / meta repository** for the Switch Protocol 
 
 ### Binance Hackathon Repositories
 
-This GitHub organization is used to manage the **Binance Hackathon source code** for Switch Protocol.  
-The following repositories under `SWPL-Switch-Protocol` together form the main hackathon project:
+This GitHub is used to manage the **Binance Hackathon source code** for Switch Protocol.  
 
 - **frontend-web**: Web application for the Switch Protocol user experience, built with TypeScript.
 - **backend**: Backend service that exposes APIs and orchestrates core business logic for Switch Protocol.
