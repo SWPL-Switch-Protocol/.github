@@ -19,3 +19,17 @@ For the full pitch narrative, detailed problem statement, and planned features, 
 
 This repository acts as a **profile / meta repository** for the Switch Protocol project, giving judges and collaborators a high-level overview of what we are building.
 
+---
+
+### Binance Hackathon Repositories
+
+This GitHub organization is used to manage the **Binance Hackathon source code** for Switch Protocol.  
+The following repositories under `SWPL-Switch-Protocol` together form the main hackathon project:
+
+- **frontend-web**: Web application for the Switch Protocol user experience, built with TypeScript.
+- **backend**: Backend service that exposes APIs and orchestrates core business logic for Switch Protocol.
+- **contract**: Smart contracts (Solidity) that power the on-chain logic of Switch Protocol.
+- **ai-engine**: AI-related components that support intelligent features within the Switch Protocol ecosystem.
+
+Each repository focuses on a specific part of the system, but all of them are designed and developed as part of the **Switch Protocol Binance Hackathon project**.
+
