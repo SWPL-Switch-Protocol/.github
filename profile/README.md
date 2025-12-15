@@ -8,8 +8,6 @@ Our goal is to help both new and experienced users interact with Web3 services i
 
 For the full pitch narrative, detailed problem statement, and planned features, please refer to the slide deck:
 
-- **Pitch Deck**: [Slides (Switch Protocol)](https://slidesgpt.com/presentation/Qu6EXBXdFowIL82JOUhA?utm_source=webapp-test&utm_medium=share)
-
 ---
 
 ### Project Goals
